@@ -72,57 +72,74 @@ Hình 84 Cấu hình file docker-compose.yml
 <img width="600" height="337" alt="image" src="https://github.com/user-attachments/assets/cbe9c9a5-096c-4351-8542-6d725ffb2f14" />
 
 Hình 85. Cấu hình file requirements.txt
+
 <img width="606" height="341" alt="image" src="https://github.com/user-attachments/assets/3b32a46e-3bf2-48e2-b56b-cb96ff1c7d91" />
 
 Hình 86. Cấu hình file Dockerfile
+
 <img width="604" height="339" alt="image" src="https://github.com/user-attachments/assets/d6cbb527-e8bd-462b-9d83-6af46e7755f9" />
 
 Hình 87. Cấu hình file app.py
+
 <img width="603" height="339" alt="image" src="https://github.com/user-attachments/assets/2c793f2b-29f5-4946-b6b1-60a4da3bd463" />
 
 Hình 88. Cấu hình file index.html
+
 <img width="597" height="335" alt="image" src="https://github.com/user-attachments/assets/8eb65ffd-1df9-4c6a-8dc4-cc7b21647ca2" />
 
 Hình 89. Chạy docker-compose.yml
+
 <img width="604" height="340" alt="image" src="https://github.com/user-attachments/assets/9f6a124b-598f-4ebd-88a3-a9143e624a6a" />
 
 Hình 90. Kiểm tra tình trạng các service
 6.3.2 Xây dựng chức năng trên Nodered
 
 Hình 91. Tải các thư viện cần thiết trên Nodered
+
 <img width="613" height="328" alt="image" src="https://github.com/user-attachments/assets/e1e0bc55-80ce-4c2a-969b-f9c4eb96face" />
 
 Hình 92. Các node cần thiết cho hệ thống
+
 <img width="601" height="167" alt="image" src="https://github.com/user-attachments/assets/10ecda6d-1fc7-43b2-ab8a-e28112360250" />
 
 Hình 93. Cấu hình node http request
+
 <img width="327" height="420" alt="image" src="https://github.com/user-attachments/assets/881cabbc-be0f-4739-bb8f-132fb3849186" />
 
 Hình 94. Cấu hình node function
+
 <img width="362" height="382" alt="image" src="https://github.com/user-attachments/assets/b5a0e21a-8c0c-47f8-ac32-dd99895a93e1" />
 
 Hình 95. Cấu hình node Mysql
+
 <img width="359" height="465" alt="image" src="https://github.com/user-attachments/assets/e1e66284-b6f8-4ec2-93df-27a72d308c22" />
 
 Hình 96. Cấu hình node Switch
+
 <img width="358" height="466" alt="image" src="https://github.com/user-attachments/assets/a925c506-1a3b-4cfd-ac31-f0c0fb9acfea" />
 
 Hình 97 Cấu hình node function 2
+
 <img width="362" height="379" alt="image" src="https://github.com/user-attachments/assets/76361f58-9a6b-4bb4-a5f7-7782f2611217" />
 
 6.3.3 Cấu hình Data Source InfluxDB trong Grafana
+
 <img width="610" height="346" alt="image" src="https://github.com/user-attachments/assets/7241b209-3095-4aab-afb6-ab4d79509bb4" />
 
 Hình 98. Cấu hình Data Source InfluxDB trong Grafana
+
 <img width="612" height="345" alt="image" src="https://github.com/user-attachments/assets/46453689-8430-4417-957a-72b10cfca24b" />
 
 Hình 99. Cấu hình tiếp theo trêm Grafana
+
 <img width="626" height="335" alt="image" src="https://github.com/user-attachments/assets/509875ba-fcce-46d0-b192-e7de9d0fb15e" />
 
 Hình 100. Kết quả trực quan dữ liệu hiển thị trên Granfana
+
 <img width="626" height="335" alt="image" src="https://github.com/user-attachments/assets/727e7398-a4e2-4f40-bd03-5e8b4adc1773" />
 
 Hình 101. Nhúm iframe vào trong file index.html
+
 <img width="613" height="344" alt="image" src="https://github.com/user-attachments/assets/e811e672-0cdc-43be-a2ed-943ad2fcd0f0" />
 
 Hình 102. Giao diện web có hiện thị biểu đồ
