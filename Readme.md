@@ -1,4 +1,4 @@
-<img width="607" height="341" alt="image" src="https://github.com/user-attachments/assets/5cc2aeab-6bce-40ea-ad8d-44764a1659a5" />## Họ và tên: Hoàng Kim Ngọc
+## Họ và tên: Hoàng Kim Ngọc
 ## MSSV: K225481006053
 ## Lớp: K58KTP
 
